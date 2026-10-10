@@ -1,8 +1,8 @@
-
 ---
 layout: page
 title: Mathematics
 permalink: /subjects/mathematics/
+
 ---
 
 # Mathematics
