@@ -11,7 +11,7 @@ I organize my notes by subject, topic, and subtopic.
 
 ## Browse Subjects
 
-- [Business Analytics](subjects/BA)
+- [Business Analytics](subjects/business-analytics/)
 - [Mathematics](subjects/mathematics/)
 - [Computer Science](subjects/computer-science/)
 - [Physics](subjects/physics/)

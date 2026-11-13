@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Github Pages
-permalink: /subjects/github-pages
+permalink: /subjects/github-pages/
 
 ---
 
