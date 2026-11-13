@@ -11,7 +11,7 @@ It is a graphical representation of **consumer behavior**.
 ![350](images/Pasted%20image%2020260718060743.png)
 Price is always x axis, demand is the y axis.
 
-![500](images/Pasted%20image%2020260718073559)
+![500](images/Pasted%20image%2020260718073559.png)
 #### Latent Demand
 Increase in demand as price goes down from $P^*$ to $P_1$.  (The orange region)
 #### Consumer Surplus
