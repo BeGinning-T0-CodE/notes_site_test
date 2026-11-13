@@ -9,10 +9,10 @@ A **demand response curve** is a concept from economics and decision theory that
 It is a graphical representation of **consumer behavior**.
 
 ### Demand Response Curve
-![350](/subjects/business-analytics/images/Pasted%20image%2020260718060743.png)
+![350](/subjects/business-analytics/images/Pasted%20image%2020260718060743)
 Price is always x axis, demand is the y axis.
 
-![500](/subjects/business-analytics/images/Pasted%20image%2020260718073559.png)
+![500](/subjects/business-analytics/images/Pasted%20image%2020260718073559)
 #### Latent Demand
 Increase in demand as price goes down from $P^*$ to $P_1$.  (The orange region)
 #### Consumer Surplus
