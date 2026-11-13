@@ -9,5 +9,5 @@ These are notes for the course Business Analytics of IITM BS degree.
 
 ### Topics
 
-1. [Demand Response Curve](subjects/business-analytics/demand-response-curve)
-2. [Logistic Regression](subjects/business-analytics/logistic-regression)
+1. [Demand Response Curve](demand-response-curve)
+2. [Logistic Regression](logistic-regression)
