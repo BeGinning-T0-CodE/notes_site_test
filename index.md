@@ -11,9 +11,10 @@ I organize my notes by subject, topic, and subtopic.
 
 ## Browse Subjects
 
+- [Business Analytics](subjects/BA/)
 - [Mathematics](subjects/mathematics/)
 - [Computer Science](subjects/computer-science/)
 - [Physics](subjects/physics/)
-- [Github Pages](subjects/github-pages/)
+- [Github Pages](subjects/github-pages)
 
 I'll keep adding notes as I learn new things.
